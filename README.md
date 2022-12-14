@@ -1,1 +1,1 @@
-# GaussianNB
+# GaussianNB (naive bayes)
